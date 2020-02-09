@@ -1,0 +1,1 @@
+# Compact-Alternative-Hash-for-Cpp
